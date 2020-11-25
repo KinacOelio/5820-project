@@ -1,7 +1,7 @@
-# This is an example of how praw can be used to scrape data from a subreddit. In this case, r/SubSimulatorGPT2.
+# This is an example of how praw can be used to scrape data from a subreddit. 
 # keywords are used to denote the beginning and and of a title and of a comment to help it generate comments better.
 # this may or may not be a good way to do it.
-# output is also included.
+
 
 import praw
 
