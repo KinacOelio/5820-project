@@ -2,14 +2,4 @@
 
 Google colab used to generate model: 
 
-https://colab.research.google.com/drive/1crwamkDOsaRk9r5nLRgN15QZjWh3E1e-?usp=sharing
-
-
-example model (download whole checkpoint folder):
-
-https://drive.google.com/drive/folders/1T5kLAPVnjqgW5v1oCh3uNJlqmj5-1j5N?usp=sharing
-
-
-Possible Production Model:
-
-https://colab.research.google.com/drive/1DCjlMFix5gCNnN2lnq9RdsCDnwKrab7b?usp=sharing
+https://colab.research.google.com/drive/1iKGEQ6M3DUZpV8-5HuLZodbjXSRxeHZU?usp=sharing
